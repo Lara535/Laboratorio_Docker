@@ -138,6 +138,4 @@ docker rmi devops-webapi:1.0.0 devops-webapi:1.1.0 devops-webapi:1.2.0
 
 ## Evidências
 
-Prints e respostas da atividade: [`docs/Documento-de-Evidencias.pdf`](docs/Documento-de-Evidencias.pdf).
-
-> **Nota:** o `Program.cs` da branch principal deve conter a versão estável (1.1.0, com `/health` retornando `healthy`). O código da 1.2.0 (health com erro 500) existe apenas para a demonstração da falha controlada.
+Prints e respostas da atividade: [`Documento-de-Evidencias.pdf`]().

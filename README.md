@@ -135,7 +135,3 @@ docker compose down
 docker compose down
 docker rmi devops-webapi:1.0.0 devops-webapi:1.1.0 devops-webapi:1.2.0
 ```
-
-## Evidências
-
-Prints e respostas da atividade: [`Documento-de-Evidencias.pdf`]().
